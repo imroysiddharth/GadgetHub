@@ -71,9 +71,7 @@ public class UserPojo {
     }
 
     @Override
-    public String toString() {
-        
-        
+    public String toString() { 
         return " UserPojo{" + "username=" + username + ", useremail=" + useremail + ", mobile=" + mobile + ", address=" + address + ", pincode=" + pincode + ", password=" + password + '}';
     }
     
